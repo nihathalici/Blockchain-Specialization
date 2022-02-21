@@ -4,7 +4,7 @@ This 4-course certificate, developed by University at Buffalo - The State Univer
 
 | Course | Description |
 | --- | --- |
-| `Blockchain Basics` | This first course provides a broad overview of the essential concepts of blockchain technology |
+| `Blockchain Basics` | This first course provides a broad overview of the essential concepts of blockchain technology. |
 | `Smart Contracts` | Design, code, deploy and execute a smart contract – the computational element of the blockchain technology.  |
 
 
