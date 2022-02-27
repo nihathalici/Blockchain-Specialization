@@ -16,5 +16,5 @@ Taught by Bina Ramamurthy
 
 
 - Coursera: https://www.coursera.org/home
-- Django for Everybody Specialization: https://www.coursera.org/specializations/blockchain
+- Blockchain Specialization: https://www.coursera.org/specializations/blockchain
 
