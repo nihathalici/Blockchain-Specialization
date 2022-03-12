@@ -1,9 +1,9 @@
 # Smart Contracts | Week - 3
 
-* Explain basic data types in Solidity language.
-* Explain the use of access modifier “public.”
-* Illustrate the basic definition of functions.
-* Apply the basic data types and functions in constructing a smart contract.
+* Write a smart contract.
+* Analyze a problem statement to design and implement a smart contract.
+* Program smart contracts using Solidity language and Remix IDE.
+* Add features to the Ballot smart contract code.
 
 
 Links and Appendix
