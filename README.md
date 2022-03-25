@@ -4,8 +4,8 @@ This 4-course certificate, developed by University at Buffalo - The State Univer
 
 | Course | Description |
 | --- | --- |
-| `Blockchain Basics` | This first course provides a broad overview of the essential concepts of blockchain technology. |
-| `Smart Contracts` | Design, code, deploy and execute a smart contract – the computational element of the blockchain technology.  |
+| `Blockchain Basics` | Provides a broad overview of the essential concepts of blockchain technology. |
+| `Smart Contracts` | Will help you design, code, deploy and execute a smart contract. |
 | `Decentralized Applications (Dapps)` | Prepares you to design and develop end-to-end decentralized applications (Dapps). |
 | `Blockchain Platforms` | Provides learners with an understanding of the broader blockchain ecosystem. |
 
