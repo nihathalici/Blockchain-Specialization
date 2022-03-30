@@ -10,4 +10,4 @@ Taught by Bina Ramamurthy
 
 
 - Coursera: https://www.coursera.org/home
-- Blockchain Basics: https://www.coursera.org/learn/blockchain-basics
+- Smart Contracts: https://www.coursera.org/learn/smarter-contracts
